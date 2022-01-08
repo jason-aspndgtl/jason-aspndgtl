@@ -235,6 +235,8 @@ const styles = {
         background: `url(${dotPattern}) no-repeat right top`,
         content: [null, null, null, null, null, `''`],
         position: 'absolute',
+        width: 302,
+        height: 347,
         zIndex: -1,
       },
       '::before': {
